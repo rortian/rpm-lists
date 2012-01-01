@@ -33,6 +33,7 @@ foomatic-db-ppds
 fpaste
 fprintd-pam
 ftp
+gcc-c++
 glx-utils
 gnome-disk-utility
 google-chrome-stable
@@ -126,6 +127,7 @@ pam_pkcs11
 paps
 passwdqc
 pcmciautils
+phantomjs
 pinfo
 plasma-scriptengine-python
 plymouth-system-theme
@@ -141,6 +143,7 @@ rdist
 rng-tools
 rootfiles
 rp-pppoe
+rpm-build
 rpmorphan
 rsh
 rt61pci-firmware
@@ -174,7 +177,6 @@ telnet
 thai-scalable-waree-fonts
 traceroute
 tree
-unzip
 usbutils
 vconfig
 vim-enhanced
