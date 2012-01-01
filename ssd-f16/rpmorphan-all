@@ -134,6 +134,7 @@ prelink
 printer-filters
 psacct
 ql2500-firmware
+qtwebkit-devel
 quota
 rdate
 rdist
@@ -156,6 +157,7 @@ smartmontools
 smc-meera-fonts
 smolt-firstboot
 sos
+sqlite-devel
 sssd
 stix-fonts
 stunnel
