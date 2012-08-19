@@ -2,6 +2,7 @@ NetworkManager
 PackageKit-command-not-found
 PackageKit-yum-plugin
 SDL-devel
+TeXmacs
 Xaw3d-devel
 abrt-desktop
 acpid
@@ -64,6 +65,7 @@ fprintd-pam
 ftp
 gcc-c++
 gcc-gfortran
+gcc-go
 gd-devel
 gdbm-devel
 geoclue-devel
